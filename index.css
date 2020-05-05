@@ -1,0 +1,67 @@
+.section1 {
+	width: 100vw;
+	height: 50vh;
+	background-color: pink;
+}
+
+.section2 {
+	width: 100vw;
+	height: 100vh;
+	background-color: yellow;
+	opacity: 0.8;
+}
+
+.section3 {
+	width: 100vw;
+	height: 100vh;
+	background-color: yellow;
+	opacity: 0.8;
+}
+
+.section4 {
+	width: 100vw;
+	height: 100vh;
+	background-color: yellow;
+	opacity: 0.8;
+}
+
+.title-logo{
+	color: #fff;
+	font-family: 'Courgette', cursive;
+	font-weight: bold;
+}
+
+.title-footer{
+	color: black;
+	font-family: 'Courgette', cursive;
+	font-weight: bold;
+}
+
+.title-catalogo {
+	color: black;
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+	font-size: 55px;
+}
+
+.title-produtos {
+	color: black;
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+	margin-left: 20px;
+	font-size: 40px;
+}
+
+.produto {
+	color: black;
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.borderless {
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+}
