@@ -25,16 +25,43 @@
 	opacity: 0.8;
 }
 
+.section5 {
+	width: 100vw;
+	height: 100%;
+	background-color: yellow;
+	opacity: 0.8;
+}
+
+.section6 {
+	width: 100vw;
+	height: 100%;
+	background-color: yellow;
+	opacity: 0.8;
+}
+
 .title-logo{
 	color: #fff;
 	font-family: 'Courgette', cursive;
 	font-weight: bold;
 }
 
+.subtitle-logo{
+	color: #fff;
+	font-family: 'Courgette', cursive;
+	font-weight: bold;
+	font-size: 18px;
+}
+
 .title-footer{
 	color: black;
 	font-family: 'Courgette', cursive;
 	font-weight: bold;
+}
+
+.info-footer{
+	color: black;
+	font-family: 'Courgette', cursive;
+	font-weight: bold;	
 }
 
 .title-catalogo {
@@ -54,9 +81,16 @@
 
 .produto {
 	color: black;
-	font-family: 'Dancing Script', cursive;
+	font-family: 'Lobster', cursive;
 	font-weight: bold;
 	font-size: 25px;
+}
+
+h4 {
+	color: black;
+	font-family: 'Lobster', cursive;
+	font-weight: bold;
+	font-size: 20px;
 }
 
 .borderless {
@@ -64,4 +98,16 @@
     border-left-style: none;
     border-right-style: none;
     border-bottom-style: none;
+}
+
+.mt-20 {
+	margin-top: 20px;
+}
+
+.ml-50 {
+	margin-left: 50px;
+}
+
+.mb-20 {
+	margin-bottom: 20px;
 }
