@@ -40,15 +40,14 @@
 }
 
 .title-logo{
-	color: #fff;
+	color: black;
 	font-family: 'Courgette', cursive;
 	font-weight: bold;
 }
 
 .subtitle-logo{
-	color: #fff;
+	color: black;
 	font-family: 'Courgette', cursive;
-	font-weight: bold;
 	font-size: 18px;
 }
 
@@ -82,14 +81,12 @@
 .produto {
 	color: black;
 	font-family: 'Lobster', cursive;
-	font-weight: bold;
 	font-size: 25px;
 }
 
 h4 {
 	color: black;
 	font-family: 'Lobster', cursive;
-	font-weight: bold;
 	font-size: 20px;
 }
 
